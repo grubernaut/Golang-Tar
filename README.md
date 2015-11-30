@@ -9,7 +9,8 @@ Steps to reproduce:
 vagrant up
 ```
 
-Vagrant will:
+
+During Vagrant Provision, Vagrant will perform the following steps:
 
 * Install Go1.5.1
 
